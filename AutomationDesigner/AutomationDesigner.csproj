@@ -424,7 +424,7 @@
     <ManifestKeyFile>AutomationDesigner_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>AD7692604D21855C9BBEBC4C1F625FB263F6CDB6</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>ABE2EE6BF675974C046C915647F3C06432DBF6CA</ManifestCertificateThumbprint>
   </PropertyGroup>
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
